@@ -34,8 +34,10 @@ We will leave the lengthy discussions to the end. We will just show now how the 
         android:text="Select or Capture Image 20190213" />
 ```
 
-3. You can download the new `layout` [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/activity_main.xml)
+3. You can download the new `layout` [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/activity_main.xml). Just replace the old file with the new one. Rebuild your APK in Android Studio (or your preferred methods). 
 
 So what are the novelties behind such a trivial change?
 
-1. 
+1. There might have been new Android app development tools aimed at making it easier to develop Android apps. However, these tools never expose the fundamentals thus making it troublesome for beginners to progress, plus there would have been planty of restrictions imposed by the simplified platforms. (e.g. Kivy Python for Android)
+
+The philosophy of SAIGON Metaprogramming is such that we do not change the fundamental mechanisms of how to make an Android app, but make them easier to understand and easier to use by "creating a program to modify other programs" (metaprogramming).
