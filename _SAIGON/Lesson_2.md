@@ -1,6 +1,6 @@
 ### Lesson 2: Adding Code to Button
 
-[ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md)
+\[ [ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md) \]
 
 In the [previous lesson](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/README.md), we learned how to add a button to an Android app without coding.
 
