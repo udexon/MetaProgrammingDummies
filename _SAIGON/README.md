@@ -51,3 +51,7 @@ The reason SAIGON is platform independent is because it deals with the most fund
 Metaprogramming -- to write a program to modify another program -- is perhaps the only untouched and unexplored area in programming and software engineering, due to a series of complex reasons which we will explain eventually.
 
 Back to the Kotlin Android image selection app above, the Kotlin Android development platform could have taken a more "visual" approach, i.e. to organize the files according to the visual output, and let programmers work on the source files accordingly. However, this was not the case as Kotlin Android is very much a "patch up" work based on Android Java, the initial app development platform for Android, which was designed with other priorities in mind. This is how SAIGON Metaprogramming can bypass whatever design assumptions the tools designers have, and create a brand new, users and visual oriented development approach.
+
+For the button adding example above, the amount work to edit the file is negligible. So we probably do not need any tool to do that. But the complexity of Android app or any app in 2019 will spiral out of control very quickly. Nonetheless, the example above illustrates some fundamental issues concerning Android app development and metaprogramming.
+
+This seems like a good point to conclude this article, as we look forward to the next.
