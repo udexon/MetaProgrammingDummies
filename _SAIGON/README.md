@@ -35,3 +35,7 @@ We will leave the lengthy discussions to the end. We will just show now how the 
 ```
 
 3. You can download the new `layout` [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/activity_main.xml)
+
+So what are the novelties behind such a trivial change?
+
+1. 
