@@ -19,9 +19,9 @@ Now you be wondering, how is that possible? Read on ...
 
 We will leave the lengthy discussions to the end. We will just show now how the change is done:
 
-1. The original `layout` file is [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/app/src/main/res/layout/activity_main.xml).
+1. The original `layout/activity_main.xml` file is [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/app/src/main/res/layout/activity_main.xml).
 
-2. Add the following text to `layout`:
+2. Add the following text to `layout/activity_main.xml`:
 
 ```
     <Button
@@ -34,7 +34,7 @@ We will leave the lengthy discussions to the end. We will just show now how the 
         android:text="Select or Capture Image 20190213" />
 ```
 
-3. You can download the new `layout` [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/activity_main.xml). Just replace the old file with the new one. Rebuild your APK in Android Studio (or your preferred methods). 
+3. You can download the new `layout/activity_main.xml` [here](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/activity_main.xml). Just replace the old file with the new one. Rebuild your APK in Android Studio (or your preferred methods). 
 
 So what are the novelties behind such a trivial change?
 
