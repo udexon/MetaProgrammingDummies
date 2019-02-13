@@ -1,6 +1,6 @@
 ### SAIGON Metaprogramming for Dummies
 
-[ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md)
+\[ [ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md) \]
 
 Hardik Parsania made an excellent tutorial for [selecting image from gallery](https://demonuts.com/pick-image-gallery-camera-android/) on Android phone with a Kotlin app, which we cloned [here](https://github.com/udexon/MetaProgrammingDummies).
 
