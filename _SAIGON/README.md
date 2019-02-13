@@ -52,6 +52,6 @@ Metaprogramming -- to write a program to modify another program -- is perhaps th
 
 Back to the Kotlin Android image selection app above, the Kotlin Android development platform could have taken a more "visual" approach, i.e. to organize the files according to the visual output, and let programmers work on the source files accordingly. However, this was not the case as Kotlin Android is very much a "patch up" work based on Android Java, the initial app development platform for Android, which was designed with other priorities in mind. This is how SAIGON Metaprogramming can bypass whatever design assumptions the tools designers have, and create a brand new, users and visual oriented development approach.
 
-For the button adding example above, the amount work to edit the file is negligible. So we probably do not need any tool to do that. But the complexity of Android app or any app in 2019 will spiral out of control very quickly. Nonetheless, the example above illustrates some fundamental issues concerning Android app development and metaprogramming.
+For the button adding example above, the amount work to edit the file is negligible. So we probably do not need any tool (a program) to help us do that. But the complexity of Android app or any app in 2019 will spiral out of control very quickly. Nonetheless, the example above illustrates some fundamental issues concerning Android app development and metaprogramming.
 
 This seems like a good point to conclude this article, as we look forward to the next.
