@@ -44,3 +44,5 @@ The philosophy of SAIGON Metaprogramming is such that we do not change the funda
 
 - It uses the fundamental mechanisms of app development as they are, thus imposing no restrictions.
 - It makes it easy for beginners to understand and use the existing app development infrastructure.
+- It is platform independent. The example shown here is for Android Kotlin. But it can be easily portable to other platforms, including iOS, Mac Xcode, JavaScript, PHP, Web applications, GNOME Desktop app, Python etc. 
+- The reason SAIGON is platform independent is because it deals with the most fundamental level in software development and programming: the text files of source code and configuration files themselves.
