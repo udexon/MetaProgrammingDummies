@@ -40,4 +40,7 @@ So what are the novelties behind such a trivial change?
 
 1. There might have been new Android app development tools aimed at making it easier to develop Android apps. However, these tools never expose the fundamentals thus making it troublesome for beginners to progress, plus there would have been planty of restrictions imposed by the simplified platforms. (e.g. Kivy Python for Android)
 
-The philosophy of SAIGON Metaprogramming is such that we do not change the fundamental mechanisms of how to make an Android app, but make them easier to understand and easier to use by "creating a program to modify other programs" (metaprogramming).
+The philosophy of SAIGON Metaprogramming is such that we do not change the fundamental mechanisms of how to make an Android app, but make them easier to understand and easier to use by "creating a program to modify other programs" (metaprogramming). This approach has the following advantages:
+
+- It uses the fundamental mechanisms of app development as they are, thus imposing no restrictions.
+- It makes it easy for beginners to understand and use the existing app development infrastructure.
