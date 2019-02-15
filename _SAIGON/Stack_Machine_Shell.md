@@ -1,5 +1,7 @@
 ### SAIGON SMASH (Stack Machine Shell)
 
+\[ [ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md) \]
+
 - Variables are defined in and manipulated in conventional programming languages. Subsequently, stack machine programming (SAIGON) adds graph grounding to the variables.
 
 The paragraph above summarizes and perhaps oversimplifies a very complicated and significant breakthrough in computer programming. 
