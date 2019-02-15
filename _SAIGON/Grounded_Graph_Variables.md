@@ -20,9 +20,11 @@ Graph theory itself offers a solution. We shall employ the Forth paradigm: piece
 
 Variables is a non-topic in the Forth programming language as its usage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
 
-However, when there are multiple inputs and outputs that are not temporally related (MIMO paradigm), they need to be stored as variables. Forth programmers have little need to work on such problems, perhaps not due to the limitations of Forth, but the nature of business -- there are just too many problems in this world that Forth programmers would focus on, especially low level hardware related problems.
+However, when there are multiple input and output variables that are not temporally related (MIMOV paradigm), they need to be stored as variables. Forth programmers have little need to work on such problems, perhaps not due to the limitations of Forth, but the nature of business -- there are just too many problems in this world that Forth programmers would focus on, especially low level hardware related problems.
 
-MIMO paradigm first became significant when GUI was popularized by capable and affordable Intel 386 personal computers. Microsoft Windows took the lead in numbers, Apple in innovative GUI from Steve Jobs NeXTSTEP, while GNU Linux played catch up game while leading in server technologies. 
+(We choose the acronym MIMOV to distinguish from MIMO used in communications engineering. Of course, the relationships between MIMOV and MIMO are worth further investigation in another article.)
+
+MIMOV paradigm first became significant when GUI was popularized by capable and affordable Intel 386 personal computers. Microsoft Windows took the lead in numbers, Apple in innovative GUI from Steve Jobs NeXTSTEP, while GNU Linux played catch up game while leading in server technologies. 
 
 Not much has changed although the mainstream development in 2019 is mobile applications.  
 
