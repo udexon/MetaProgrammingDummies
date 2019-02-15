@@ -18,7 +18,7 @@ The readers may ask:
 
 Graph theory itself offers a solution. We shall employ the Forth paradigm: piecewise function construction. Variables are defined in and manipulated in conventional programming languages. Subsequently, stack machine programming (SAIGON) adds graph grounding to the variables. 
 
-Variables is a non-topic in the Forth programming language as its usuage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
+Variables is a non-topic in the Forth programming language as its usage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
 
 However, when there are multiple inputs and outputs that are not temporally related (MIMO paradigm), they need to be stored as variables. Forth programmers have little need to work on such problems, perhaps not due to the limitations of Forth, but the nature of business -- there are just too many problems in this world that Forth programmers would focus on, especially low level hardware related problems.
 
