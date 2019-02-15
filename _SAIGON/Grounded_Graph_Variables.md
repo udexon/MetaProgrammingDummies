@@ -2,11 +2,13 @@
 
 Variables. Perhaps the very first concept any programmer would learn. It is however THE bottleneck in the progress towards artificial general Intelligence. The root cause of how we treat variables in programming can be traced back to the Unix operating system, when the concept of process was popularized. As such, variables become isolated within a process, cutting it off from the rest of the system, and the rest of the world.
 
-How can this be overcome? We propose grounded graph variables (GGV), an implementation of graph theoretic relationships for variables stored in random access memory (RAM), disk storage or networks. This is an extension of graph database to cover variables in memory. The term "grounded" refers to the "symbol grounding problem" -- how human beings associate meaning with words.
+How can this be overcome? We propose grounded graph variables (GGV), an implementation of graph theoretic relationships for variables stored in random access memory (RAM), disk storage or networks. This is an extension of graph database to cover variables in memory. The term "grounded" refers to the ["symbol grounding problem"](https://en.wikipedia.org/wiki/Symbol_grounding_problem) -- how human beings associate meaning with words.
 
 Mind_as_Graph: find link, put here. This is our novel fundamental assumption. Give example, everything we think is related to each other. Android facedetect, judge distance, presence or absence, man in the mirror experiment (link), all is relative.
 
-https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md
+[ Mind as Graph ](https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md)
+
+[ "Man in the Mirror" Experiment: Bootstraping AI with SAIGON Kotlin OpenCV ](https://github.com/udexon/SAIGON/blob/master/Man_in_the_Mirror.md)
 
 :: that are related to other variables 
 :: is comment
@@ -30,13 +32,16 @@ Not much has changed although the mainstream development in 2019 is now in mobil
 
 The biggest question is this: 
 
-- How do we interface mainstream programming paradigms to stack programming paradigm? Enter SAIGON and SAIGON ISYA? 
+- How do we interface mainstream programming paradigms to stack programming paradigm? 
+- Enter SAIGON and SAIGON ISYA? 
 
 
-Human senses are also limited. Hence we see and hear mostly, as inputs. Temporary variables in brain are bigger in number, as they are accumulated over time, based on inputs from sensory organs, and are used from time to time, when needed. People with short memory have less intellectual ability. 
+:: Human senses are also limited. Hence we see and hear mostly, as inputs. Temporary variables in brain are bigger in number, as they are accumulated over time, based on inputs from sensory organs, and are used from time to time, when needed. People with short memory have less intellectual ability. 
 
 
-Forth-ish piecewise function construction: Forthers call it colon definition. Non Forthers would have too many theoretical mental blocks due to paradigmatic differences. Thou shalt not .... for ....
+### Forth-ish piecewise function construction
+
+Forthers call it colon definition. Non Forthers would have too many theoretical mental blocks due to paradigmatic differences. Thou shalt not .... for ....
 
 Programming paradigms are like religions, where fanatical adherents would write emotionally against each other. While the common mortals do not have access to evidence artifacts beyond the Internet, most programmers would recall Dijkstra's admonition against "goto". We do not know for sure how paradigmatic factionalism has affected the desire of programmers in learning a certain programming language, but the number of subscribers to /r/Forth on Reddit might be a telling indicator, given its status as one of the oldest surviving programming languages. 
 
