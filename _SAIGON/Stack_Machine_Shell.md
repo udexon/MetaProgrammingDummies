@@ -10,7 +10,7 @@ The Unix shell that we are all familiar with dates back to the 1970s (Unix date!
 
 The pipe in Unix shells,  from Forth perspective, is a one item stack. It is trivial, for all intents and purposes, to make any Unix shell a complete stack machine. dc, the Unix utility desktop calculator, is a stack machine complete with reverse Polish notation. Various Unix shells have array which can easily double as stack. Nevertheless, it seems RPN never found its way to any Unix shell. 
 
-As the web becomes a ubiquitous infrastructure of computing systems, it makes more sense to implement the stack machine shell (SMASH) for the web, as we demonstrated in ...
+As the web becomes a ubiquitous infrastructure of computing systems, it makes more sense to implement the stack machine shell (SMASH) for the web, as we demonstrated in [SAIGON AJAX Example](http://5gl.epizy.com/nsm/fgl.html).
 
 As mobile devices took over the web as the next ubiquitous interface, it makes sense to implement SMASH on mobile devices. 
 
