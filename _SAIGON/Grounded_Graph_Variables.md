@@ -2,19 +2,25 @@
 
 Variables. Perhaps the very first concept any programmer would learn. It is however THE bottleneck in the progress towards artificial general Intelligence. The root cause of how we treat variables in programming can be traced back to the Unix operating system, when the concept of process was popularized. As such, variables become isolated within a process, cutting it off from the rest of the system, and the rest of the world.
 
-How can this be overcome? We propose grounded graph variables (GGV), an implementation of variables that are related to other variables stored in random access memory (RAM), disk storage or networks. This is an extension of graph database to cover variables in memory. 
+How can this be overcome? We propose grounded graph variables (GGV), an implementation of graph theoretic relationships for variables stored in random access memory (RAM), disk storage or networks. This is an extension of graph database to cover variables in memory. The term "grounded" refers to the "symbol grounding problem" -- how human beings associate meaning with words.
 
 Mind_as_Graph: find link, put here. This is our novel fundamental assumption. Give example, everything we think is related to each other. Android facedetect, judge distance, presence or absence, man in the mirror experiment (link), all is relative.
 
 https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md
 
-The readers may ask: there are literally billions of line of code written in thousands of programming languages since the beginning of the computing era; how long would it need to change those code and the current practices?
+:: that are related to other variables 
+:: is comment
 
-Graph theory itself offers a solution. We shall employ the Forth paradigm: piecewise function construction. Variables are defined in and manipulated in Conventional Programming Languages. After that, stack machine programming (SAIGON) adds graph grounding to the variables. 
+The readers may ask: 
 
-Variables is a non topic in the Forth programming language as its usuage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
+- There are literally billions of line of code written in thousands of programming languages since the beginning of the computing era. 
+- How long would it need to change those code and the current practices?
 
-However, when there are multiple inputs and outputs that are not temporally related, they need to be stored as variables. Forth programmers have little need to work on such problems, perhaps not due to the limitations of Forth, but the nature of business -- there are just too many problems in this world that Forth programmers would focus on low level hardware related problems.
+Graph theory itself offers a solution. We shall employ the Forth paradigm: piecewise function construction. Variables are defined in and manipulated in conventional programming languages. Subsequently, stack machine programming (SAIGON) adds graph grounding to the variables. 
+
+Variables is a non-topic in the Forth programming language as its usuage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
+
+However, when there are multiple inputs and outputs that are not temporally related (MIMO paradigm), they need to be stored as variables. Forth programmers have little need to work on such problems, perhaps not due to the limitations of Forth, but the nature of business -- there are just too many problems in this world that Forth programmers would focus on, especially low level hardware related problems.
 
 MIMO paradigm first became significant when GUI was popularized by capable and affordable Intel 386 personal computers. Microsoft Windows took the lead in numbers, Apple in innovative GUI from Steve Jobs NeXTSTEP, while GNU Linux played catch up game while leading in server technologies. 
 
