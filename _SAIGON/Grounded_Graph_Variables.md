@@ -1,9 +1,4 @@
-Metaprogramming for Dummies: How to write an Android program without learning programming
-
-
-Grounded Graph Variables: Foundations for Artificial General Intelligence
-
-Title [ Concept: Concept Relationship ]
+### Grounded Graph Variables: Foundations for Artificial General Intelligence
 
 Variables. Perhaps the very first concept any programmer would learn. It is however THE bottleneck in the progress towards artificial general Intelligence. The root cause of how we treat variables in programming can be traced back to the Unix operating system, when the concept of process was popularized. As such, variables become isolated within a process, cutting it off from the rest of the system, and the rest of the world.
 
@@ -15,7 +10,7 @@ https://github.com/udexon/SAIGON/blob/master/Homoiconic_Graph_Machine.md
 
 The readers may ask: there are literally billions of line of code written in thousands of programming languages since the beginning of the computing era; how long would it need to change those code and the current practices?
 
-Graph theory itself offers a solution. We shall use the Forth paradigm: piecewise function construction. Variables are defined in and manipulated in Conventional Programming Languages. After that, stack machine programming (SAIGON) adds graph grounding to the variables. 
+Graph theory itself offers a solution. We shall employ the Forth paradigm: piecewise function construction. Variables are defined in and manipulated in Conventional Programming Languages. After that, stack machine programming (SAIGON) adds graph grounding to the variables. 
 
 Variables is a non topic in the Forth programming language as its usuage is discouraged. This is justified as stack programming is largely a temporal mechanism, ie. manipulating information using stack in sequence (one clock cycle after another). 
 
@@ -76,3 +71,7 @@ Psychlab: a psychology laboratory for deep reinforcement learning agents
 JZ Leibo, CM d'Autume, D Zoran, D Amos… - arXiv preprint arXiv …, 2018 - arxiv.org
 Psychlab is a simulated psychology laboratory inside the first-person 3D game world of DeepMind Lab (Beattie et al. 2016). Psychlab enables implementations of classical laboratory psychological experiments so that they work with both human and artificial …
 Cited by 6 Related articles   
+
+Title [ Concept: Concept Relationship ]
+
+Metaprogramming for Dummies: How to write an Android program without learning programming
