@@ -26,9 +26,11 @@ However, when there are multiple input and output variables that are not tempora
 
 MIMOV paradigm first became significant when GUI was popularized by capable and affordable Intel 386 personal computers. Microsoft Windows took the lead in numbers, Apple in innovative GUI from Steve Jobs NeXTSTEP, while GNU Linux played catch up game while leading in server technologies. 
 
-Not much has changed although the mainstream development in 2019 is mobile applications.  
+Not much has changed although the mainstream development in 2019 is now in mobile applications.  
 
-The biggest question is this: How do we interface mainstream programming paradigms to stack programming paradigm? Enter SAIGON and ISYA. 
+The biggest question is this: 
+
+- How do we interface mainstream programming paradigms to stack programming paradigm? Enter SAIGON and SAIGON ISYA? 
 
 
 Human senses are also limited. Hence we see and hear mostly, as inputs. Temporary variables in brain are bigger in number, as they are accumulated over time, based on inputs from sensory organs, and are used from time to time, when needed. People with short memory have less intellectual ability. 
