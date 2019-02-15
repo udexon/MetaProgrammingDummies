@@ -30,6 +30,9 @@ In this way, theoretically all programs ever written by human programmers in any
 
 We believe this could be the most significant breakthrough in AGI, with potential to achieve AGI within a year, given sufficient resources.
 
+
+[ "Man in the Mirror" Experiment: Bootstraping AI with SAIGON Kotlin OpenCV ](https://github.com/udexon/SAIGON/blob/master/Man_in_the_Mirror.md)
+
 Also, distributed ownership of AGI, most important issue in class struggle. 
 
 Explain homoiconicity. 
