@@ -1,5 +1,7 @@
 ### Grounded Graph Variables: Foundations for Artificial General Intelligence
 
+\[ [ Table of Contents ](https://github.com/udexon/MetaProgrammingDummies/blob/master/_SAIGON/0_Table_of_Contents.md) \]
+
 Variables. Perhaps the very first concept any programmer would learn. It is however THE bottleneck in the progress towards artificial general Intelligence. The root cause of how we treat variables in programming can be traced back to the Unix operating system, when the concept of process was popularized. As such, variables become isolated within a process, cutting it off from the rest of the system, and the rest of the world.
 
 How can this be overcome? We propose grounded graph variables (GGV), an implementation of graph theoretic relationships for variables stored in random access memory (RAM), disk storage or networks. This is an extension of graph database to cover variables in memory. The term "grounded" refers to the ["symbol grounding problem"](https://en.wikipedia.org/wiki/Symbol_grounding_problem) -- how human beings associate meaning with words.
